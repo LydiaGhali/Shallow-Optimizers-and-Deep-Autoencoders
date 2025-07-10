@@ -56,9 +56,9 @@ In this milestone, we designed and trained several encoder-decoder models to lea
 This project was completed as part of the **CSE473 – Computational Intelligence** course  
 Faculty of Engineering, Ain Shams Univesity
 
-- **Lydia Safwat Ghali**  
-- **Ziad Walid ElHanafy**  
+- **Lydia Safwat Ghali**
 - **Shahd AbouHashem**
+- **Ziad Walid ElHanafy**  
 ---
 
 ## Appendix
