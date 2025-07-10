@@ -25,9 +25,6 @@ In this milestone, we built a shallow neural network and trained it on the **CIF
 - Accuracy
 - Convergence behavior (loss vs. epochs)
 
-### File:
-- `CI_Milestone_1.ipynb`
-
 ---
 
 ## Milestone 2: Deep Autoencoder for Face Recognition
@@ -52,9 +49,6 @@ In this milestone, we designed and trained several encoder-decoder models to lea
 - Face reconstructions
 - Latent space representations
 - Accuracy comparisons across models
-
-### File:
-- `CI_Milestone_2.ipynb`
 
 ---
 ## Team Members
