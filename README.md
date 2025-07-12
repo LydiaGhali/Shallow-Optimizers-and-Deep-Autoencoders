@@ -65,6 +65,6 @@ Faculty of Engineering, Ain Shams Univesity
 All code is contained within the two notebooks above.  
 Feel free to explore, modify, and build upon these models.
 
-[Drive Link](https://drive.google.com/drive/folders/1ejn5D8Q7qM7eS6vTjzUQBDuUoomVu1hq?usp=sharing)
+[Drive Link](https://drive.google.com/drive/folders/1ejn5D8Q7qM7eS6vTjzUQBDuUoomVu1hq)
 
 
